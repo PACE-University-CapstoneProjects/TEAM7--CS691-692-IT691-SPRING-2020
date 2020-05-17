@@ -1,12 +1,12 @@
 # TEAM7--CS691-692-IT691-SPRING-2020
 
-Using AI Enabled Robotic Fish to Combat Environmental Waste
+Title: Using AI Enabled Robotic Fish to Combat Environmental Waste
 
 Team Members: Matthew Crespo, Matt Brown, Vineetha Alluri,Robert Consigliere, Janaya Cooper.
 
 Customer: Matthew R. Ganis.
 
-The combination of Robotic Fish and Artificial
+Abstract: The combination of Robotic Fish and Artificial
 Intelligence (AI) is becoming one of the most prominent research
 discoveries of our time. The advanced technology, software
 engineering, big data and extensive trials has led to their success.
